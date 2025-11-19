@@ -32,13 +32,33 @@ Solutions to assignments are included for each corresponding week.
 
 ### Programming Graded Assesment
 
-- [WEEK 1](./Week%201.ipynb)
-- [WEEK 2](./Week%202.ipynb)
-- [WEEK 3](./Week%203.ipynb)
-- [WEEK 4](./Week%204.ipynb)
-- [WEEK 5](./Week%205.ipynb)
-- [WEEK 6](./Week%206.ipynb)
-- [WEEK 7](./Week%207.ipynb)
-- [WEEK 8](./Week%208.ipynb)
-- [WEEK 9](./Week%209.ipynb)
+- [WEEK 1](./PGA/Week%201.ipynb)
+- [WEEK 2](./PGA/Week%202.ipynb)
+- [WEEK 3](./PGA/Week%203.ipynb)
+- [WEEK 4](./PGA/Week%204.ipynb)
+- [WEEK 5](./PGA/Week%205.ipynb)
+- [WEEK 6](./PGA/Week%206.ipynb)
+- [WEEK 7](./PGA/Week%207.ipynb)
+- [WEEK 8](./PGA/Week%208.ipynb)
+- [WEEK 9](./PGA/Week%209.ipynb)
 
+### Graded Assesment
+
+- [WEEK 1](./GA/Week%201%20MLT.pdf)
+- [WEEK 2](./GA/Week%202%20MLT.pdf)
+- [WEEK 3](./GA/Week%203%20MLT.pdf)
+- [WEEK 4](./GA/Week%204%20MLT.pdf)
+- [WEEK 5](./GA/Week%205%20MLT.pdf)
+- [WEEK 6](./GA/Week%206%20MLT.pdf)
+- [WEEK 7](./GA/Week%207%20MLT.pdf)
+
+### Notes
+
+- [WEEK 1](./Notes/Wk01.pdf)
+- [WEEK 2](./Notes/Wk02.pdf)
+- [WEEK 3](./Notes/Wk03.pdf)
+- [WEEK 4](./Notes/Wk04.pdf)
+- [WEEK 5](./Notes/Wk05.pdf)
+- [WEEK 6](./Notes/Wk06.pdf)
+- [WEEK 7](./Notes/Wk07.pdf)
+- [WEEK 8](./Notes/Wk08.pdf)
